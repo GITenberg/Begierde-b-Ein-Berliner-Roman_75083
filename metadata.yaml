@@ -1,0 +1,25 @@
+_repo: Begierde-b-Ein-Berliner-Roman_75083
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marés, Jolanthe
+    gutenberg_agent_id: '57816'
+    url: http://www.gutenberg.org/2009/agents/57816
+description: ''
+gutenberg_issued: '2025-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75083'
+language: de
+pgterms:marc905: 20230414070551mars
+pgterms:marc906: '1916'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aBerlin :$bWilhelm Borngräber Verlag, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Begierde : $b Ein Berliner Roman'
+url: http://www.gutenberg.org/ebooks/75083
